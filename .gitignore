@@ -1,3 +1,8 @@
+#additional Grub
+build/
+dist/
+nbproject/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
